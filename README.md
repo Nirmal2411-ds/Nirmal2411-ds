@@ -12,6 +12,13 @@ Email Me 👉 ✉️ **nkuiry1@gmail.com** For Job Opportunities, Collaboration/
 - 📫 **How to reach me:** nkuiry1@gmail.com
 - 😄 **Pronouns:** Nirmal
 - ⚡ **Fun fact:** I Love Statistics and Statistics Love Me
+- 👌**SKILLS:**
+- **Programming Languages:** Python, R
+- **Technologies:** SQL (PostgreSQL, MySQL), Power BI, Advanced MS Excel, Docker, Git, NoSQL (MongoDB)
+- **Coursework:** Data Analytics, Machine Learning (Regression, Classification, Clustering), Time Series Forecasting, A/B Testing, NLP (Natural Language Processing), Transformers, Gen AI (LangChain, RAG, LLM fine-tuning, HuggingFace, Vector Database (FAISS, Pinecone), LlamaIndex), GitHub Copilot, OpenAI API
+- **Libraries:** TensorFlow, PySpark, Scikit-Learn, Pandas, Matplotlib, statsmodels, Keras, NLTK, Spacy, BeautifulSoup
+- **Deployment:** Exposure to AWS cloud (Sagemaker, Glue, EC2, S3, Bedrock, Lambda), FastAPI, Flask, Streamlit
+- **Other Skills:** Power Automate, Power Pivot, Macros, Big Data, Statistical Modelling, Database Management, Marketing Analytics, Marketing Mix Modelling (MMM), Problem Solving
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirmal_kuiry_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmal-kuiry-265302171) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nkuiry1@gmail.com) 
